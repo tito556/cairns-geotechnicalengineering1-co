@@ -1,0 +1,51 @@
+# Geotechnicalengineering1 — Cairns
+
+> Geotechnical engineering services in Cairns, Australia.
+
+## Services
+- [Anchors](https://cairns.geotechnicalengineering1.co/anchors/)
+- [Atterberg Limits](https://cairns.geotechnicalengineering1.co/atterberg-limits/)
+- [Cbr Road](https://cairns.geotechnicalengineering1.co/cbr-road/)
+- [Cpt Test](https://cairns.geotechnicalengineering1.co/cpt-test/)
+- [Deep Excavations](https://cairns.geotechnicalengineering1.co/deep-excavations/)
+- [Excavation Monitoring](https://cairns.geotechnicalengineering1.co/excavation-monitoring/)
+- [Excavations](https://cairns.geotechnicalengineering1.co/excavations/)
+- [Flexible Pavement](https://cairns.geotechnicalengineering1.co/flexible-pavement/)
+- [Footings](https://cairns.geotechnicalengineering1.co/footings/)
+- [Foundations](https://cairns.geotechnicalengineering1.co/foundations/)
+- [Grain Size](https://cairns.geotechnicalengineering1.co/grain-size/)
+- [Ground Improvement](https://cairns.geotechnicalengineering1.co/ground-improvement/)
+- [Grouting](https://cairns.geotechnicalengineering1.co/grouting/)
+- [In Situ Permeability](https://cairns.geotechnicalengineering1.co/in-situ-permeability/)
+- [Investigation](https://cairns.geotechnicalengineering1.co/investigation/)
+- [Lab In Situ](https://cairns.geotechnicalengineering1.co/lab-in-situ/)
+- [Laboratory](https://cairns.geotechnicalengineering1.co/laboratory/)
+- [Liquefaction](https://cairns.geotechnicalengineering1.co/liquefaction/)
+- [Masw](https://cairns.geotechnicalengineering1.co/masw/)
+- [Mat Foundations](https://cairns.geotechnicalengineering1.co/mat-foundations/)
+- [Piles](https://cairns.geotechnicalengineering1.co/piles/)
+- [Proctor Tests](https://cairns.geotechnicalengineering1.co/proctor-tests/)
+- [Resistivity](https://cairns.geotechnicalengineering1.co/resistivity/)
+- [Retaining Walls](https://cairns.geotechnicalengineering1.co/retaining-walls/)
+- [Rigid Pavement](https://cairns.geotechnicalengineering1.co/rigid-pavement/)
+- [Road Geotechnics](https://cairns.geotechnicalengineering1.co/road-geotechnics/)
+- [Sand Cone Density](https://cairns.geotechnicalengineering1.co/sand-cone-density/)
+- [Seismic](https://cairns.geotechnicalengineering1.co/seismic/)
+- [Seismic Isolation](https://cairns.geotechnicalengineering1.co/seismic-isolation/)
+- [Seismic Microzonation](https://cairns.geotechnicalengineering1.co/seismic-microzonation/)
+- [Seismic Refraction](https://cairns.geotechnicalengineering1.co/seismic-refraction/)
+- [Slope Stability](https://cairns.geotechnicalengineering1.co/slope-stability/)
+- [Slopes](https://cairns.geotechnicalengineering1.co/slopes/)
+- [Soft Ground Tunnels](https://cairns.geotechnicalengineering1.co/soft-ground-tunnels/)
+- [Spt Drilling](https://cairns.geotechnicalengineering1.co/spt-drilling/)
+- [Stone Columns](https://cairns.geotechnicalengineering1.co/stone-columns/)
+- [Test Pits](https://cairns.geotechnicalengineering1.co/test-pits/)
+- [Triaxial](https://cairns.geotechnicalengineering1.co/triaxial/)
+- [Vibrocompaction](https://cairns.geotechnicalengineering1.co/vibrocompaction/)
+
+## Contact
+- Website: https://cairns.geotechnicalengineering1.co/
+
+## About
+This site provides geotechnical engineering services in Cairns, Australia.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
